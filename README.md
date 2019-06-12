@@ -3,7 +3,7 @@
 ### Installation
 This plugin can be installed via pip:
 ```
-$ pip install dbt-spark
+$ pip install dbt[spark]
 ```
 
 ### Configuring your profile
